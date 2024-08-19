@@ -1,5 +1,5 @@
 
-# Topsis Package
+# AI model
 
 Landing.AI Model for Different Face Position(LEFT ,RIGHT,FRONT) Prediction using Classification
 
