@@ -9,7 +9,7 @@ This project uses the Landing AI platform to make predictions on a set of images
 - [Usage](#usage)
 - [Input Directory](#input-directory)
 - [Example](#Example)
-- [Live link](#Live link)
+- [Live link](#Livelink)
 
 
 ## Introduction
